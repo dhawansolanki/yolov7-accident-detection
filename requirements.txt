@@ -1,0 +1,12 @@
+flask
+pillow
+torch
+torchvision
+pandas
+requests
+opencv-python
+tqdm
+pyyaml
+matplotlib
+seaborn
+scipy
